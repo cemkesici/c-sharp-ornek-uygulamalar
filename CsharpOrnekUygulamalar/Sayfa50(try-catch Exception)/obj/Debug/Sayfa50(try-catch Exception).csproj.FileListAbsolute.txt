@@ -1,0 +1,9 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa50(try-catch Exception)\bin\Debug\Sayfa50(try-catch Exception).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa50(try-catch Exception)\bin\Debug\Sayfa50(try-catch Exception).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa50(try-catch Exception)\bin\Debug\Sayfa50(try-catch Exception).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa50(try-catch Exception)\obj\Debug\Sayfa50_try_catch_Exception_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa50(try-catch Exception)\obj\Debug\Sayfa50_try_catch_Exception_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa50(try-catch Exception)\obj\Debug\Sayfa50(try-catch Exception).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa50(try-catch Exception)\obj\Debug\Sayfa50(try-catch Exception).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa50(try-catch Exception)\obj\Debug\Sayfa50(try-catch Exception).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa50(try-catch Exception)\obj\Debug\Sayfa50(try-catch Exception).pdb

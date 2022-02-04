@@ -1,0 +1,8 @@
+C:\Users\cemke\Desktop\11756876078_Cem KESİCİ\172120002\Sayfa135\bin\Debug\Sayfa135.exe
+C:\Users\cemke\Desktop\11756876078_Cem KESİCİ\172120002\Sayfa135\bin\Debug\Sayfa135.pdb
+C:\Users\cemke\Desktop\11756876078_Cem KESİCİ\172120002\Sayfa135\obj\Debug\Sayfa135.Form1.resources
+C:\Users\cemke\Desktop\11756876078_Cem KESİCİ\172120002\Sayfa135\obj\Debug\Sayfa135.Properties.Resources.resources
+C:\Users\cemke\Desktop\11756876078_Cem KESİCİ\172120002\Sayfa135\obj\Debug\Sayfa135.csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\11756876078_Cem KESİCİ\172120002\Sayfa135\obj\Debug\Sayfa135.csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\11756876078_Cem KESİCİ\172120002\Sayfa135\obj\Debug\Sayfa135.exe
+C:\Users\cemke\Desktop\11756876078_Cem KESİCİ\172120002\Sayfa135\obj\Debug\Sayfa135.pdb

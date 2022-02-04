@@ -1,0 +1,9 @@
+C:\Users\cemke\Desktop\Ders\Görsel\17120002_Cem_Kesici\6.Hafta\Eksikkonular2\bin\Debug\Eksikkonular2.exe
+C:\Users\cemke\Desktop\Ders\Görsel\17120002_Cem_Kesici\6.Hafta\Eksikkonular2\bin\Debug\Eksikkonular2.pdb
+C:\Users\cemke\Desktop\Ders\Görsel\17120002_Cem_Kesici\6.Hafta\Eksikkonular2\obj\Debug\Eksikkonular2.csproj.AssemblyReference.cache
+C:\Users\cemke\Desktop\Ders\Görsel\17120002_Cem_Kesici\6.Hafta\Eksikkonular2\obj\Debug\Eksikkonular2.Form1.resources
+C:\Users\cemke\Desktop\Ders\Görsel\17120002_Cem_Kesici\6.Hafta\Eksikkonular2\obj\Debug\Eksikkonular2.Properties.Resources.resources
+C:\Users\cemke\Desktop\Ders\Görsel\17120002_Cem_Kesici\6.Hafta\Eksikkonular2\obj\Debug\Eksikkonular2.csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\Ders\Görsel\17120002_Cem_Kesici\6.Hafta\Eksikkonular2\obj\Debug\Eksikkonular2.csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\Ders\Görsel\17120002_Cem_Kesici\6.Hafta\Eksikkonular2\obj\Debug\Eksikkonular2.exe
+C:\Users\cemke\Desktop\Ders\Görsel\17120002_Cem_Kesici\6.Hafta\Eksikkonular2\obj\Debug\Eksikkonular2.pdb

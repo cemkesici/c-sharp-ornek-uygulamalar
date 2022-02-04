@@ -1,0 +1,10 @@
+C:\Users\cemke\Desktop\Görsel\17120002_Cem_Kesici\Sınav\Soru3\bin\Debug\Soru3.exe.config
+C:\Users\cemke\Desktop\Görsel\17120002_Cem_Kesici\Sınav\Soru3\bin\Debug\Soru3.exe
+C:\Users\cemke\Desktop\Görsel\17120002_Cem_Kesici\Sınav\Soru3\bin\Debug\Soru3.pdb
+C:\Users\cemke\Desktop\Görsel\17120002_Cem_Kesici\Sınav\Soru3\obj\Debug\Soru3.csproj.AssemblyReference.cache
+C:\Users\cemke\Desktop\Görsel\17120002_Cem_Kesici\Sınav\Soru3\obj\Debug\Soru3.Form1.resources
+C:\Users\cemke\Desktop\Görsel\17120002_Cem_Kesici\Sınav\Soru3\obj\Debug\Soru3.Properties.Resources.resources
+C:\Users\cemke\Desktop\Görsel\17120002_Cem_Kesici\Sınav\Soru3\obj\Debug\Soru3.csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\Görsel\17120002_Cem_Kesici\Sınav\Soru3\obj\Debug\Soru3.csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\Görsel\17120002_Cem_Kesici\Sınav\Soru3\obj\Debug\Soru3.exe
+C:\Users\cemke\Desktop\Görsel\17120002_Cem_Kesici\Sınav\Soru3\obj\Debug\Soru3.pdb

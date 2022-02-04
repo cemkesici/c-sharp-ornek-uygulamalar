@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eksikkonular", "Eksikkonular.csproj", "{BE19AB11-2898-46A3-A3E0-D7AC43A93ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE19AB11-2898-46A3-A3E0-D7AC43A93ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE19AB11-2898-46A3-A3E0-D7AC43A93ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE19AB11-2898-46A3-A3E0-D7AC43A93ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE19AB11-2898-46A3-A3E0-D7AC43A93ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A291CE6B-7865-42C4-8DF6-BE6EAB09F4F2}
+	EndGlobalSection
+EndGlobal

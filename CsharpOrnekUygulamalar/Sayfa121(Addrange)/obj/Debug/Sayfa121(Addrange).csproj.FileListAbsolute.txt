@@ -1,0 +1,9 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Addrange)\bin\Debug\Sayfa121(Addrange).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Addrange)\bin\Debug\Sayfa121(Addrange).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Addrange)\bin\Debug\Sayfa121(Addrange).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Addrange)\obj\Debug\Sayfa121_Addrange_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Addrange)\obj\Debug\Sayfa121_Addrange_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Addrange)\obj\Debug\Sayfa121(Addrange).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Addrange)\obj\Debug\Sayfa121(Addrange).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Addrange)\obj\Debug\Sayfa121(Addrange).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Addrange)\obj\Debug\Sayfa121(Addrange).pdb

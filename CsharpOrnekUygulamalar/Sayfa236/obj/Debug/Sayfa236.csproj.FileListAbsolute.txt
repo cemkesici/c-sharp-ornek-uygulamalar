@@ -1,0 +1,10 @@
+C:\Users\cemke\source\repos\Sayfa236\bin\Debug\Sayfa236.exe.config
+C:\Users\cemke\source\repos\Sayfa236\bin\Debug\Sayfa236.exe
+C:\Users\cemke\source\repos\Sayfa236\bin\Debug\Sayfa236.pdb
+C:\Users\cemke\source\repos\Sayfa236\obj\Debug\Sayfa236.csproj.AssemblyReference.cache
+C:\Users\cemke\source\repos\Sayfa236\obj\Debug\Sayfa236.Form1.resources
+C:\Users\cemke\source\repos\Sayfa236\obj\Debug\Sayfa236.Properties.Resources.resources
+C:\Users\cemke\source\repos\Sayfa236\obj\Debug\Sayfa236.csproj.GenerateResource.cache
+C:\Users\cemke\source\repos\Sayfa236\obj\Debug\Sayfa236.csproj.CoreCompileInputs.cache
+C:\Users\cemke\source\repos\Sayfa236\obj\Debug\Sayfa236.exe
+C:\Users\cemke\source\repos\Sayfa236\obj\Debug\Sayfa236.pdb

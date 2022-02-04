@@ -1,0 +1,9 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\5.Hafta\Sayfa147(ProgressBar)\bin\Debug\Sayfa147(ProgressBar).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\5.Hafta\Sayfa147(ProgressBar)\bin\Debug\Sayfa147(ProgressBar).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\5.Hafta\Sayfa147(ProgressBar)\bin\Debug\Sayfa147(ProgressBar).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\5.Hafta\Sayfa147(ProgressBar)\obj\Debug\Sayfa147_ProgressBar_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\5.Hafta\Sayfa147(ProgressBar)\obj\Debug\Sayfa147_ProgressBar_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\5.Hafta\Sayfa147(ProgressBar)\obj\Debug\Sayfa147(ProgressBar).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\5.Hafta\Sayfa147(ProgressBar)\obj\Debug\Sayfa147(ProgressBar).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\5.Hafta\Sayfa147(ProgressBar)\obj\Debug\Sayfa147(ProgressBar).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\5.Hafta\Sayfa147(ProgressBar)\obj\Debug\Sayfa147(ProgressBar).pdb

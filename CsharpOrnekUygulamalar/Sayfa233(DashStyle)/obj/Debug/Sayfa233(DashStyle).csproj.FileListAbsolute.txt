@@ -1,0 +1,9 @@
+C:\Users\cemke\source\repos\Sayfa233(DashStyle)\bin\Debug\Sayfa233(DashStyle).exe.config
+C:\Users\cemke\source\repos\Sayfa233(DashStyle)\bin\Debug\Sayfa233(DashStyle).exe
+C:\Users\cemke\source\repos\Sayfa233(DashStyle)\bin\Debug\Sayfa233(DashStyle).pdb
+C:\Users\cemke\source\repos\Sayfa233(DashStyle)\obj\Debug\Sayfa233_DashStyle_.Form1.resources
+C:\Users\cemke\source\repos\Sayfa233(DashStyle)\obj\Debug\Sayfa233_DashStyle_.Properties.Resources.resources
+C:\Users\cemke\source\repos\Sayfa233(DashStyle)\obj\Debug\Sayfa233(DashStyle).csproj.GenerateResource.cache
+C:\Users\cemke\source\repos\Sayfa233(DashStyle)\obj\Debug\Sayfa233(DashStyle).csproj.CoreCompileInputs.cache
+C:\Users\cemke\source\repos\Sayfa233(DashStyle)\obj\Debug\Sayfa233(DashStyle).exe
+C:\Users\cemke\source\repos\Sayfa233(DashStyle)\obj\Debug\Sayfa233(DashStyle).pdb

@@ -1,0 +1,9 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa104(Undo)\bin\Debug\Sayfa104(Undo).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa104(Undo)\bin\Debug\Sayfa104(Undo).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa104(Undo)\bin\Debug\Sayfa104(Undo).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa104(Undo)\obj\Debug\Sayfa104_Undo_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa104(Undo)\obj\Debug\Sayfa104_Undo_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa104(Undo)\obj\Debug\Sayfa104(Undo).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa104(Undo)\obj\Debug\Sayfa104(Undo).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa104(Undo)\obj\Debug\Sayfa104(Undo).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa104(Undo)\obj\Debug\Sayfa104(Undo).pdb

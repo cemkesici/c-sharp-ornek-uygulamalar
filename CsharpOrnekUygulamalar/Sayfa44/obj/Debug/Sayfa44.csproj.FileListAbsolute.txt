@@ -1,0 +1,9 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa44\bin\Debug\Sayfa44.exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa44\bin\Debug\Sayfa44.exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa44\bin\Debug\Sayfa44.pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa44\obj\Debug\Sayfa44.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa44\obj\Debug\Sayfa44.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa44\obj\Debug\Sayfa44.csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa44\obj\Debug\Sayfa44.csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa44\obj\Debug\Sayfa44.exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa44\obj\Debug\Sayfa44.pdb

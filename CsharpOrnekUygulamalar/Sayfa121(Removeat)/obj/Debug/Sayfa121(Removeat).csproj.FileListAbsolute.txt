@@ -1,0 +1,9 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Removeat)\bin\Debug\Sayfa121(Removeat).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Removeat)\bin\Debug\Sayfa121(Removeat).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Removeat)\bin\Debug\Sayfa121(Removeat).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Removeat)\obj\Debug\Sayfa121_Removeat_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Removeat)\obj\Debug\Sayfa121_Removeat_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Removeat)\obj\Debug\Sayfa121(Removeat).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Removeat)\obj\Debug\Sayfa121(Removeat).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Removeat)\obj\Debug\Sayfa121(Removeat).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Removeat)\obj\Debug\Sayfa121(Removeat).pdb

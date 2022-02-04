@@ -1,0 +1,9 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Convert kullanım)\bin\Debug\Sayfa41(Convert kullanım).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Convert kullanım)\bin\Debug\Sayfa41(Convert kullanım).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Convert kullanım)\bin\Debug\Sayfa41(Convert kullanım).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Convert kullanım)\obj\Debug\Sayfa41_Convert_kullanım_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Convert kullanım)\obj\Debug\Sayfa41_Convert_kullanım_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Convert kullanım)\obj\Debug\Sayfa41(Convert kullanım).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Convert kullanım)\obj\Debug\Sayfa41(Convert kullanım).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Convert kullanım)\obj\Debug\Sayfa41(Convert kullanım).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Convert kullanım)\obj\Debug\Sayfa41(Convert kullanım).pdb

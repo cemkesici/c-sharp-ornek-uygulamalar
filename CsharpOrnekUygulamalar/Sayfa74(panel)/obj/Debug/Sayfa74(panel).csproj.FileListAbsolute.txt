@@ -1,0 +1,9 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa74(panel)\bin\Debug\Sayfa74(panel).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa74(panel)\bin\Debug\Sayfa74(panel).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa74(panel)\bin\Debug\Sayfa74(panel).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa74(panel)\obj\Debug\Sayfa74_panel_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa74(panel)\obj\Debug\Sayfa74_panel_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa74(panel)\obj\Debug\Sayfa74(panel).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa74(panel)\obj\Debug\Sayfa74(panel).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa74(panel)\obj\Debug\Sayfa74(panel).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa74(panel)\obj\Debug\Sayfa74(panel).pdb

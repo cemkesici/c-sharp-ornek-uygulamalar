@@ -1,0 +1,10 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme)\bin\Debug\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme)\bin\Debug\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme)\bin\Debug\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme)\obj\Debug\Sayfa55_Mesaj_Başlık_Dügmeler_Simge_Varsayılan_Dügme_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme)\obj\Debug\Sayfa55_Mesaj_Başlık_Dügmeler_Simge_Varsayılan_Dügme_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme)\obj\Debug\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme)\obj\Debug\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme)\obj\Debug\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme)\obj\Debug\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme)\obj\Debug\Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme).csproj.AssemblyReference.cache

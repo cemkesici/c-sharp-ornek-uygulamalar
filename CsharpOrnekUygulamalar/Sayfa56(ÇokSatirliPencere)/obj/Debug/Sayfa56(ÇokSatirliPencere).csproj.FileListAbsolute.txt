@@ -1,0 +1,10 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa56(ÇokSatirliPencere)\bin\Debug\Sayfa56(ÇokSatirliPencere).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa56(ÇokSatirliPencere)\bin\Debug\Sayfa56(ÇokSatirliPencere).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa56(ÇokSatirliPencere)\bin\Debug\Sayfa56(ÇokSatirliPencere).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa56(ÇokSatirliPencere)\obj\Debug\Sayfa56(ÇokSatirliPencere).csproj.AssemblyReference.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa56(ÇokSatirliPencere)\obj\Debug\Sayfa56_ÇokSatirliPencere_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa56(ÇokSatirliPencere)\obj\Debug\Sayfa56_ÇokSatirliPencere_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa56(ÇokSatirliPencere)\obj\Debug\Sayfa56(ÇokSatirliPencere).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa56(ÇokSatirliPencere)\obj\Debug\Sayfa56(ÇokSatirliPencere).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa56(ÇokSatirliPencere)\obj\Debug\Sayfa56(ÇokSatirliPencere).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa56(ÇokSatirliPencere)\obj\Debug\Sayfa56(ÇokSatirliPencere).pdb

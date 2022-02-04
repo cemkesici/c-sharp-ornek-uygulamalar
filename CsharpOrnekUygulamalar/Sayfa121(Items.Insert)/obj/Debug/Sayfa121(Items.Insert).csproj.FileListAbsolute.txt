@@ -1,0 +1,9 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Items.Insert)\bin\Debug\Sayfa121(Items.Insert).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Items.Insert)\bin\Debug\Sayfa121(Items.Insert).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Items.Insert)\bin\Debug\Sayfa121(Items.Insert).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Items.Insert)\obj\Debug\Sayfa121_Items.Insert_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Items.Insert)\obj\Debug\Sayfa121_Items.Insert_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Items.Insert)\obj\Debug\Sayfa121(Items.Insert).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Items.Insert)\obj\Debug\Sayfa121(Items.Insert).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Items.Insert)\obj\Debug\Sayfa121(Items.Insert).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa121(Items.Insert)\obj\Debug\Sayfa121(Items.Insert).pdb

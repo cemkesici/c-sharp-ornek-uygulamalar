@@ -1,0 +1,10 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa49(try-catch)\bin\Debug\Sayfa49(try-catch).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa49(try-catch)\bin\Debug\Sayfa49(try-catch).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa49(try-catch)\bin\Debug\Sayfa49(try-catch).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa49(try-catch)\obj\Debug\Sayfa49(try-catch).csproj.AssemblyReference.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa49(try-catch)\obj\Debug\Sayfa49_try_catch_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa49(try-catch)\obj\Debug\Sayfa49_try_catch_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa49(try-catch)\obj\Debug\Sayfa49(try-catch).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa49(try-catch)\obj\Debug\Sayfa49(try-catch).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa49(try-catch)\obj\Debug\Sayfa49(try-catch).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa49(try-catch)\obj\Debug\Sayfa49(try-catch).pdb

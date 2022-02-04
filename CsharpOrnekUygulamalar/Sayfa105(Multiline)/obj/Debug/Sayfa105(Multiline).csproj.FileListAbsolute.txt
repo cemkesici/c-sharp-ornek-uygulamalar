@@ -1,0 +1,9 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa105(Multiline)\bin\Debug\Sayfa105(Multiline).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa105(Multiline)\bin\Debug\Sayfa105(Multiline).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa105(Multiline)\bin\Debug\Sayfa105(Multiline).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa105(Multiline)\obj\Debug\Sayfa105_Multiline_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa105(Multiline)\obj\Debug\Sayfa105_Multiline_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa105(Multiline)\obj\Debug\Sayfa105(Multiline).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa105(Multiline)\obj\Debug\Sayfa105(Multiline).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa105(Multiline)\obj\Debug\Sayfa105(Multiline).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\4.Hafta\Sayfa105(Multiline)\obj\Debug\Sayfa105(Multiline).pdb

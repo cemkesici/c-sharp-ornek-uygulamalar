@@ -1,0 +1,9 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa93(Açılış Formu)\bin\Debug\Sayfa93(Açılış Formu).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa93(Açılış Formu)\bin\Debug\Sayfa93(Açılış Formu).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa93(Açılış Formu)\bin\Debug\Sayfa93(Açılış Formu).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa93(Açılış Formu)\obj\Debug\Sayfa93_Açılış_Formu_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa93(Açılış Formu)\obj\Debug\Sayfa93_Açılış_Formu_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa93(Açılış Formu)\obj\Debug\Sayfa93(Açılış Formu).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa93(Açılış Formu)\obj\Debug\Sayfa93(Açılış Formu).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa93(Açılış Formu)\obj\Debug\Sayfa93(Açılış Formu).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa93(Açılış Formu)\obj\Debug\Sayfa93(Açılış Formu).pdb

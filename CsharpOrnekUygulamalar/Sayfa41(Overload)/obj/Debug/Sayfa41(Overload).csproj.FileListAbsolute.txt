@@ -1,0 +1,9 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Overload)\bin\Debug\Sayfa41(Overload).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Overload)\bin\Debug\Sayfa41(Overload).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Overload)\bin\Debug\Sayfa41(Overload).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Overload)\obj\Debug\Sayfa41_Overload_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Overload)\obj\Debug\Sayfa41_Overload_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Overload)\obj\Debug\Sayfa41(Overload).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Overload)\obj\Debug\Sayfa41(Overload).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Overload)\obj\Debug\Sayfa41(Overload).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa41(Overload)\obj\Debug\Sayfa41(Overload).pdb

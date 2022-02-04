@@ -1,0 +1,9 @@
+C:\Users\cemke\source\repos\Sayfa232\bin\Debug\Sayfa232.exe.config
+C:\Users\cemke\source\repos\Sayfa232\bin\Debug\Sayfa232.exe
+C:\Users\cemke\source\repos\Sayfa232\bin\Debug\Sayfa232.pdb
+C:\Users\cemke\source\repos\Sayfa232\obj\Debug\Sayfa232.Form1.resources
+C:\Users\cemke\source\repos\Sayfa232\obj\Debug\Sayfa232.Properties.Resources.resources
+C:\Users\cemke\source\repos\Sayfa232\obj\Debug\Sayfa232.csproj.GenerateResource.cache
+C:\Users\cemke\source\repos\Sayfa232\obj\Debug\Sayfa232.csproj.CoreCompileInputs.cache
+C:\Users\cemke\source\repos\Sayfa232\obj\Debug\Sayfa232.exe
+C:\Users\cemke\source\repos\Sayfa232\obj\Debug\Sayfa232.pdb

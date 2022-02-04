@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme)", "Sayfa55(Mesaj,Başlık,Dügmeler,Simge,Varsayılan_Dügme).csproj", "{19FD6DCF-5995-4E73-83A6-A82176BF407B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19FD6DCF-5995-4E73-83A6-A82176BF407B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FD6DCF-5995-4E73-83A6-A82176BF407B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FD6DCF-5995-4E73-83A6-A82176BF407B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FD6DCF-5995-4E73-83A6-A82176BF407B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BE45021-D031-4360-A8EB-B0B182479A56}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(büyüksayi)\bin\Debug\Sayfa40(büyüksayi).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(büyüksayi)\bin\Debug\Sayfa40(büyüksayi).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(büyüksayi)\bin\Debug\Sayfa40(büyüksayi).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(büyüksayi)\obj\Debug\Sayfa40_büyüksayi_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(büyüksayi)\obj\Debug\Sayfa40_büyüksayi_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(büyüksayi)\obj\Debug\Sayfa40(büyüksayi).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(büyüksayi)\obj\Debug\Sayfa40(büyüksayi).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(büyüksayi)\obj\Debug\Sayfa40(büyüksayi).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(büyüksayi)\obj\Debug\Sayfa40(büyüksayi).pdb

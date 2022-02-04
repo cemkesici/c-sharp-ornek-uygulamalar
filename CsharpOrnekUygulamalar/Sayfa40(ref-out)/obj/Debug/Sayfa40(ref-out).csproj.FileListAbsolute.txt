@@ -1,0 +1,10 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(ref-out)\bin\Debug\Sayfa40(ref-out).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(ref-out)\bin\Debug\Sayfa40(ref-out).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(ref-out)\bin\Debug\Sayfa40(ref-out).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(ref-out)\obj\Debug\Sayfa40(ref-out).csproj.AssemblyReference.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(ref-out)\obj\Debug\Sayfa40_ref_out_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(ref-out)\obj\Debug\Sayfa40_ref_out_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(ref-out)\obj\Debug\Sayfa40(ref-out).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(ref-out)\obj\Debug\Sayfa40(ref-out).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(ref-out)\obj\Debug\Sayfa40(ref-out).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa40(ref-out)\obj\Debug\Sayfa40(ref-out).pdb

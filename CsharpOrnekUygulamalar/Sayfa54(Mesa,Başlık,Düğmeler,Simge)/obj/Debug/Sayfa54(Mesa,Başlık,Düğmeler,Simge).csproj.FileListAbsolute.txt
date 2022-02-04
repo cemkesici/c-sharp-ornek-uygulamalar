@@ -1,0 +1,9 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa54(Mesa,Başlık,Düğmeler,Simge)\bin\Debug\Sayfa54(Mesa,Başlık,Düğmeler,Simge).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa54(Mesa,Başlık,Düğmeler,Simge)\bin\Debug\Sayfa54(Mesa,Başlık,Düğmeler,Simge).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa54(Mesa,Başlık,Düğmeler,Simge)\bin\Debug\Sayfa54(Mesa,Başlık,Düğmeler,Simge).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa54(Mesa,Başlık,Düğmeler,Simge)\obj\Debug\Sayfa54_Mesa_Başlık_Düğmeler_Simge_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa54(Mesa,Başlık,Düğmeler,Simge)\obj\Debug\Sayfa54_Mesa_Başlık_Düğmeler_Simge_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa54(Mesa,Başlık,Düğmeler,Simge)\obj\Debug\Sayfa54(Mesa,Başlık,Düğmeler,Simge).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa54(Mesa,Başlık,Düğmeler,Simge)\obj\Debug\Sayfa54(Mesa,Başlık,Düğmeler,Simge).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa54(Mesa,Başlık,Düğmeler,Simge)\obj\Debug\Sayfa54(Mesa,Başlık,Düğmeler,Simge).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\Sayfa54(Mesa,Başlık,Düğmeler,Simge)\obj\Debug\Sayfa54(Mesa,Başlık,Düğmeler,Simge).pdb

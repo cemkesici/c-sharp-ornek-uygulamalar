@@ -1,0 +1,9 @@
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa66(Koordinat)\bin\Debug\Sayfa66(Koordinat).exe.config
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa66(Koordinat)\bin\Debug\Sayfa66(Koordinat).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa66(Koordinat)\bin\Debug\Sayfa66(Koordinat).pdb
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa66(Koordinat)\obj\Debug\Sayfa66_Koordinat_.Form1.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa66(Koordinat)\obj\Debug\Sayfa66_Koordinat_.Properties.Resources.resources
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa66(Koordinat)\obj\Debug\Sayfa66(Koordinat).csproj.GenerateResource.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa66(Koordinat)\obj\Debug\Sayfa66(Koordinat).csproj.CoreCompileInputs.cache
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa66(Koordinat)\obj\Debug\Sayfa66(Koordinat).exe
+C:\Users\cemke\Desktop\17120002_Cem_Kesici\3.Hafta\Sayfa66(Koordinat)\obj\Debug\Sayfa66(Koordinat).pdb

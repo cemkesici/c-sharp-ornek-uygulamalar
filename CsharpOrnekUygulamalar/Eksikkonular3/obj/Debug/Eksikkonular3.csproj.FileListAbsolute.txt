@@ -1,0 +1,9 @@
+C:\Users\cemke\source\repos\Eksikkonular3\bin\Debug\Eksikkonular3.exe
+C:\Users\cemke\source\repos\Eksikkonular3\bin\Debug\Eksikkonular3.pdb
+C:\Users\cemke\source\repos\Eksikkonular3\obj\Debug\Eksikkonular3.csproj.AssemblyReference.cache
+C:\Users\cemke\source\repos\Eksikkonular3\obj\Debug\Eksikkonular3.Form1.resources
+C:\Users\cemke\source\repos\Eksikkonular3\obj\Debug\Eksikkonular3.Properties.Resources.resources
+C:\Users\cemke\source\repos\Eksikkonular3\obj\Debug\Eksikkonular3.csproj.GenerateResource.cache
+C:\Users\cemke\source\repos\Eksikkonular3\obj\Debug\Eksikkonular3.csproj.CoreCompileInputs.cache
+C:\Users\cemke\source\repos\Eksikkonular3\obj\Debug\Eksikkonular3.exe
+C:\Users\cemke\source\repos\Eksikkonular3\obj\Debug\Eksikkonular3.pdb
